@@ -152,6 +152,12 @@ nginx-multitool-64f7fc55d5-82c4v:/#
 
 5. Предоставить манифесты, а также скриншоты или вывод необходимых команд.
 
+[deployment.yml](https://github.com/stepynin-georgy/hw_k8s_8/blob/main/deployment.yml)
+
+[configmap.yml](https://github.com/stepynin-georgy/hw_k8s_8/blob/main/configmap.yml)
+
+[svc.yml](https://github.com/stepynin-georgy/hw_k8s_8/blob/main/svc.yml)
+
 ------
 
 ### Задание 2. Создать приложение с вашей веб-страницей, доступной по HTTPS 
@@ -306,6 +312,14 @@ user@k8s:/opt/hw_k8s_8$ curl https://stg-test.ru -k
 ```
 
 4. Предоставить манифесты, а также скриншоты или вывод необходимых команд.
+
+[deployment-2.yml](https://github.com/stepynin-georgy/hw_k8s_8/blob/main/deployment-2.yml)
+
+[configmap-2.yml](https://github.com/stepynin-georgy/hw_k8s_8/blob/main/configmap-2.yml)
+
+[svc-2.yml](https://github.com/stepynin-georgy/hw_k8s_8/blob/main/svc-2.yml)
+
+[ingress-2.yml](https://github.com/stepynin-georgy/hw_k8s_8/blob/main/ingress-2.yml)
 
 ------
 
