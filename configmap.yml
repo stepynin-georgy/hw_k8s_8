@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: myconfigmap
+data:
+  value: "9080"
+  index.html: |
+    <html>
+    <body>
+      <h1>"Домашнее задание к занятию «Конфигурация приложений»"</h1>
+    </body>
+    </html>
